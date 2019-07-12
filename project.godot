@@ -17,7 +17,7 @@ _global_script_class_icons={
 
 config/name="LaTale_like"
 run/main_scene="res://scenes/Level.tscn"
-config/icon="res://icon.png"
+config/icon="res://assets/logo.jpeg"
 
 [display]
 
